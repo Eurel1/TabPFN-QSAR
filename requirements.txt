@@ -1,0 +1,24 @@
+# Core
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+xgboost
+catboost
+imbalanced-learn
+
+# AutoML
+autogluon==1.4.0
+
+# TabPFN ecosystem
+tabpfn
+tabpfn-extensions
+tabpfgen
+
+# Visualization & interpretability
+matplotlib
+seaborn
+shap
+
+
